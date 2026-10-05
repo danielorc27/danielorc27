@@ -15,7 +15,7 @@ Desarrollador **Backend / Full Stack** en Medellín, Colombia. Llevo más de 3 a
 
 | Proyecto | Stack | Lo más relevante |
 |---|---|---|
-| [Asistente RAG de Validación de Cobertura Médica](https://github.com/danielorc27/Asistente-plan-Slaud) | Python · FastAPI · ChromaDB · GPT-4.1 / Gemini | Clean Architecture · 113 tests · 96% de cobertura |
+| [Asistente RAG de Validación de Cobertura Médica](https://github.com/danielorc27/asistente-rag-cobertura-medica) | Python · FastAPI · ChromaDB · GPT-4.1 / Gemini | Clean Architecture · 113 tests · 96% de cobertura |
 | [Sistema POS e Inventario con Facturación DIAN](https://github.com/danielorc27/[REPO-POS]) | Django · PostgreSQL · API Factus | Multi-tenant · RBAC · patrón Adapter/Provider |
 
 ### Stack
