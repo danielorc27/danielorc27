@@ -20,11 +20,11 @@ Desarrollador **Backend / Full Stack** en Medellín, Colombia. Llevo más de 3 a
 
 ### Stack
 
-**Backend:** Python · Django · Django REST Framework · FastAPI · Node.js · Express
-**IA:** RAG · LLMs (GPT-4.1, Gemini) · Embeddings · ChromaDB · Prompt Engineering
-**Datos:** PostgreSQL · MySQL · Sequelize
-**Calidad:** Pytest · MyPy · Ruff · Clean Architecture · SOLID
-**Infra:** Linux · Nginx · Gunicorn · PM2 · Git
+- **Backend:** Python · Django · Django REST Framework · FastAPI · Node.js · Express
+- **IA:** RAG · LLMs (GPT-4.1, Gemini) · Embeddings · ChromaDB · Prompt Engineering
+- **Datos:** PostgreSQL · MySQL · Sequelize
+- **Calidad:** Pytest · MyPy · Ruff · Clean Architecture · SOLID
+- **Infra:** Linux · Nginx · Gunicorn · PM2 · Git
 
 ### Contacto
 
